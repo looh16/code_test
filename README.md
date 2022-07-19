@@ -1,1 +1,1 @@
-# code_test
+# Unit tests in JavaScript
