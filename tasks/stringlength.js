@@ -1,4 +1,4 @@
-export const countStringCharacters = (string) => {
+export const stringLength = string => {
 
     if(string.length === 0 ){
 
